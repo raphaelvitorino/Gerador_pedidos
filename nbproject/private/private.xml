@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/Gerador_Pedidos/src/java/geradorpedidos/dao/ItemDAO.java</file>
+            <file>file:/E:/Gerador_Pedidos/src/java/geradorpedidos/action/Action.java</file>
+            <file>file:/E:/Gerador_Pedidos/src/java/geradorpedidos/action/ActionCriarCliente.java</file>
+            <file>file:/E:/Gerador_Pedidos/src/java/geradorpedidos/action/ActionRemoverCliente.java</file>
+            <file>file:/E:/Gerador_Pedidos/web/WEB-INF/jsp/adicionarClientes.jsp</file>
+            <file>file:/E:/Gerador_Pedidos/src/java/geradorpedidos/dao/ClienteDAO.java</file>
+            <file>file:/E:/Gerador_Pedidos/src/java/geradorpedidos/action/ActionFactory.java</file>
+            <file>file:/E:/Gerador_Pedidos/src/java/geradorpedidos/action/ActionFormEditarCliente.java</file>
+            <file>file:/E:/Gerador_Pedidos/web/WEB-INF/jsp/listarClientes.jsp</file>
+            <file>file:/E:/Gerador_Pedidos/src/java/geradorpedidos/action/ActionListarCliente.java</file>
+            <file>file:/E:/Gerador_Pedidos/web/WEB-INF/jsp/clienteAdicionado.jsp</file>
+            <file>file:/E:/Gerador_Pedidos/src/java/geradorpedidos/model/Item.java</file>
+        </group>
+    </open-files>
+</project-private>
